@@ -1,4 +1,4 @@
-# A Discord bot developed by ##### with contributions from #####
+# A Discord bot developed by PhantomAlcor with contributions from MrGeneralissimo
 
 #Setup
 import discord
